@@ -983,7 +983,7 @@ a:hover, a:focus, a:active { color: #FF6908; }
 
 /* Custom Style @iO */
 .app-section-s2{background-size: cover; overflow: hidden;}
-.app-section-s2:after {content: ""; position: absolute; bottom: -210px; width: 500px; left: 50%; transform: translateX(-70%); height: 300px; background-image: radial-gradient(circle, rgba(0,121,255,.5) 0%, rgba(43,18,102,0) 50%); transform: scaleX(5);}
+/* .app-section-s2:after {content: ""; position: absolute; bottom: -210px; width: 500px; left: 50%; transform: translateX(-70%); height: 300px; background-image: radial-gradient(circle, rgba(0,121,255,.5) 0%, rgba(43,18,102,0) 50%); transform: scaleX(5);} */
 .app-section-s2 .container,[class*=col-]{position: static;}
 .app-image{position: absolute;bottom: 0;right: 0;max-width: 45%;}
 @media (max-width:992px){ .app-image{max-width: 50%} }
